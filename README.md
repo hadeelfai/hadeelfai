@@ -10,7 +10,7 @@ Facts about me: Fueled by coffee and code ☕, Art & Music lover!
 📫 Reach me at: hadeelf77h@gmail.com
 
 ### 📫 Let's Connect!  
-- [LinkedIn](https://linkedin.com/in/hadeel-alharthi-)  
+- [LinkedIn](https://linkedin.com/in/hadeelalharthi)  
 - [X](https://x.com/hadeelfai)  
 <!--
 **hadeelfai/hadeelfai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
