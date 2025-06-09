@@ -4,7 +4,7 @@ CS Student | Software Developer | AI Enthusiast
 Facts about me: Fueled by coffee and code ☕, Art & Music lover!
 
 ### ⚙️ Skills  
-- HTML | CSS | JavaScript | Python | Java | SQL | React
+- HTML | CSS | JavaScript | Python | Java | SQL | React | C++
 - Full Stack Development | Algorithms | AI | UI/UX 
 
 📫 Reach me at: hadeelf77h@gmail.com
